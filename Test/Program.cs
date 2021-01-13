@@ -12,7 +12,6 @@ namespace Test
             bool isHotKey;
 
             Console.WriteLine("Enter text line and press Enter for new line. Press Ctrl + S to Save file");
-
             var output = "";
 
             while (true)
