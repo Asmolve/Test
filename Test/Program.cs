@@ -11,8 +11,7 @@ namespace Test
             ConsoleKeyInfo input;
             bool isHotKey;
 
-            Console.WriteLine("Ctrl + S to save");
-            Console.WriteLine("Enter to create a new line");
+            Console.WriteLine("Enter text line and press Enter for new line. Press Ctrl + S to Save file");
 
             var output = "";
 
